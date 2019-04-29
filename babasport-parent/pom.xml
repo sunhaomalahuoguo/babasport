@@ -11,6 +11,7 @@
         <module>../babasport-01-api</module>
         <module>../babasport-02-common</module>
         <module>../babasport-03-product-provider-8001</module>
+        <module>../babasport-04-product-portal-consumer-8051</module>
     </modules>
 
     <packaging>pom</packaging>
